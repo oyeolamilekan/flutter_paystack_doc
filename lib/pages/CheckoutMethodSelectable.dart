@@ -15,7 +15,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
   @override
   void initState() {
     PaystackPlugin.initialize(
-        publicKey: "pk_test_a3a0443b5ba209e7169ba55b693c3947ac123362");
+        publicKey: "pk_test_key");
     super.initState();
   }
 
