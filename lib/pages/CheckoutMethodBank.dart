@@ -130,7 +130,7 @@ class _CheckoutMethodBankState extends State<CheckoutMethodBank> {
     });
 
     Map accessCode = await createAccessCode(
-        "sk_test_b14c707dd7c48c90a3614751016774da0d172b9b");
+        "sk_test");
 
     setState(() {
       isGeneratingCode = !isGeneratingCode;
