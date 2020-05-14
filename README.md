@@ -16,7 +16,5 @@ The apps are spilt into different screens using different functionalities from t
     <li>This screen uses [CheckoutMethod.card](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart) method.</li>
     <li>This screen uses [CheckoutMethod.selectable](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart) method.</li>
     <li>This screen uses [Custom UI](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart) (A simple way to process card directly from your custom ui).</li>
-
-    Here is demo [video](https://youtu.be/s61XEyCgDyQ)
-
 </ul>
+Here is demo [video](https://youtu.be/s61XEyCgDyQ)
