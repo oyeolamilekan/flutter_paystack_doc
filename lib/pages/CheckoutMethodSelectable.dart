@@ -15,7 +15,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
   @override
   void initState() {
     PaystackPlugin.initialize(
-        publicKey: "pk_test_key");
+        publicKey: "pk_test_a3a0443b5ba209e7169ba55b693c3947ac123362");
     super.initState();
   }
 
@@ -131,7 +131,7 @@ class _CheckoutMethodSelectableState extends State<CheckoutMethodSelectable> {
     });
 
     Map accessCode = await createAccessCode(
-        "sk_test");
+        "sk_test_b14c707dd7c48c90a3614751016774da0d172b9b");
 
     setState(() {
       isGeneratingCode = !isGeneratingCode;
