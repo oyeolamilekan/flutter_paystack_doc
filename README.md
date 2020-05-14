@@ -12,8 +12,8 @@ Just make a pull request and cd into it, then run flutter get to get all the dep
 The apps are spilt into different screens using different functionalities from the package.
 
 <ul>
-    <li>First item</li>
-    <li>Second item</li>
-    <li>Third item</li>
-    <li>Fourth item</li>
+    <li>This screen uses [CheckOutBank](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart).</li>
+    <li>This screen uses [CheckOutBank](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart).</li>
+    <li>This screen uses [CheckOutBank](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart).</li>
+    <li>This screen uses [CheckOutBank](https://github.com/oyeolamilekan/flutter_paystack_doc/blob/master/lib/pages/CheckoutMethodBank.dart).</li>
 </ul>
